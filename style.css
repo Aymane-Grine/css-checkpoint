@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+/* Header styles */
+header {
+    background-color: #c01010;
+    color: #000000;
+    text-align: center;
+    padding: 10px;
+}
+
+/* H1 styles */
+h1 {
+    margin-bottom: 10px;
+}
+
+/* Main section styles */
+section {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* H2 styles */
+h2 {
+    margin-bottom: 10px;
+    color: #000000;
+}
+
+/* H3 styles */
+h3 {
+    margin-bottom: 10px;
+    color: #005e59;
+}
+
+/* Strong (bold) text styles */
+strong {
+    font-weight: bold;
+}
+
+/* Paragraph (p) styles */
+p {
+    margin-bottom: 15px;
+}
+
+/* Image styles */
+img {
+ 
+
+
+    margin: 20px auto; /* Centering images */
+    text-align: left;
+}
